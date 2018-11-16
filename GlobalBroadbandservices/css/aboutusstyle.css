@@ -1,0 +1,131 @@
+
+
+.navbar-default {
+    background-color: #fff;
+    border-bottom-color: #fff;
+    margin: 0px;
+}
+.navbar-collapse{
+
+	margin-right: 200px;
+}
+.logoimg {
+    max-height: 60px;
+    margin: 10px 180px;
+}
+
+.navbar-nav {
+    float: right;
+    
+}
+
+.navbar-nav>li>a {
+    padding: 25px 10px;
+}
+
+ul.nav.navbar-nav a:hover {
+	background-color: #000;
+	color: #fff !important;
+}
+.nav a{
+
+	text-transform: uppercase;
+	color: #773816 !important;
+
+}
+
+.nav a:hover{
+
+	background-color: #000;
+	color: #fff;
+}
+.abt {
+    color: #fff;
+    background-color: #f26922;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+h3 {
+    color: #fff;
+    font-weight: bold;
+    margin: 0px;
+    padding: 25px 0px;
+    
+}
+   
+ .aboutus {
+    padding-top: 25px;
+    padding-bottom: 25px;
+    margin-bottom: 200px;
+    margin-top: 100px;
+}
+.aboutus h2 {
+    text-align: left;
+    margin: 22px 0px;
+    padding: 10px 0px;
+    border-bottom: 1px solid #b1abab;
+}
+.aboutus h2 span.line {
+	display: inline-block;
+}
+.aboutus h2 span.line::after {
+    border-bottom: 3px solid red;
+    content: " ";
+    display: block;
+    width: 80%;
+    position: relative;
+    top: 12px;
+}
+
+.addressstyle {
+    color: #fff;
+    background-color: #6b6565;
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+.addressstyle h3{
+
+	text-align: left;
+	margin : 20px 0px;
+	padding: 0px;
+	border-bottom: 1px solid #fff;
+
+}
+.addressstyle h3 span.line {
+	display: inline-block;
+}
+.addressstyle h3 span.line::after {
+    border-bottom: 3px solid #ffffff;
+    content: " ";
+    display: block;
+    width: 90%;
+    position: relative;
+    top: 2px;
+}
+.addressstyle a{
+
+	color: #fff;
+}
+
+.addressstyle a:hover {
+
+	color: #fff;
+	font-size: 15px;
+	text-decoration: underline;
+}
+.footer {
+    background-color: #131212;
+    padding: 30px 0px;
+    color: #fff;
+}
+.footer a {
+	color: #fff;
+	padding: 10px;
+}
+.footer a:hover {
+	background-color: #e66f6f;
+}
+.footer p {
+	margin: 0px;
+}
